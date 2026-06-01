@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcecrypt",
+        "uuid": 8629005,
+        "checksum": "kaxus"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
